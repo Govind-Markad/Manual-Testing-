@@ -1,5 +1,5 @@
 # Manual-Testing-
-Ecommerce Web App Testing Project
+Ecommerce Web App Testing Projec
 
 ## Overview
 This repository contains the manual testing documentation for the Ecommerce project. Manual testing is an essential part of ensuring the quality and reliability of the software. This document provides guidelines and instructions for conducting manual testing on the different modules and features of the Ecommerce application.
