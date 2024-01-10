@@ -22,4 +22,4 @@ This repository contains the manual testing documentation for the Ecommerce proj
 Ensure that the following tools and resources are available before starting the manual testing process:
 - Web browser (Chrome, Firefox, etc.)
 - Test environment or staging server URL
-- Test data (user accounts, products, etc.)
+- Test data (user accounts, products, etc.
