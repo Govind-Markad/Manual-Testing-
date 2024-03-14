@@ -1,4 +1,4 @@
-# Manual-Testing-
+# Manual-Testing
 Ecommerce Web App Testing Project.
 
 ## Overview
